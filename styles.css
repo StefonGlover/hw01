@@ -1,0 +1,87 @@
+body {
+ background-color: beige;
+font-family: sans-serif;
+}
+
+.background-header {
+    background-color: red;
+    padding-top: 50px;
+    height: 200px;
+}
+
+.profile-pic {
+    width: 250x;
+    height: 250px;
+    border-radius: 50%;
+    margin-left: 20px;
+    margin-top: 0px;
+    
+}
+
+h1 {
+    margin-left: 20px;
+    margin-top: 100px;
+    margin-bottom: 0;
+}
+
+p.jobTitle{
+   margin-left: 20px;
+   margin-top: 0px;
+   margin-bottom: 0px;
+   font-size: large;
+
+}
+
+p.location{
+    margin-left: 20px;
+    margin-top: 0;
+   font-style: oblique;
+ 
+}
+
+.informationSection{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    width: 80%;
+    height:auto;
+    border-radius: 20px;
+}
+
+.informationHeader {
+    margin-left: 20px;
+    padding-top: 20px;
+   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   
+    
+}
+
+.iconSize{
+    margin-left: 20px;
+    width: 100px;
+    height: 100px;
+}
+
+#quote {
+    text-align: center;
+    margin-bottom: 0px;
+    font-style: italic;
+    font-weight: bold;
+    font-size: large;
+}
+
+h3 {
+    margin-left: 20px;
+    margin-bottom: 0;
+}
+
+a:hover {
+    background-color: red;
+}
+
+#headline_section {
+    padding-top: 30px;
+    margin-left: 20px;
+
+}
+
